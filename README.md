@@ -1,5 +1,7 @@
 \# Netflix Recommendation System
+## Project Summary
 
+This project develops a personalized movie recommendation system using the Netflix Prize Dataset. Two recommendation approaches—Item-Based Collaborative Filtering and SVD Matrix Factorization—were implemented and evaluated using RMSE. Experimental results showed that SVD achieved superior performance and generated more accurate personalized recommendations.
 
 
 \## Problem Statement
